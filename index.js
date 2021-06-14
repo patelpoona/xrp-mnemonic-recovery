@@ -1,6 +1,6 @@
-const requiredWords = 24
-const erroneousMnemonic = 'tornado child advance ... enter your mnemonic over here (23 or 24 words)'
-const expectedAccount = 'rXXXXXX ... enter your wallet address here'
+const requiredWords = 12
+const erroneousMnemonic = 'abandon ability able about above absent abandon ability able about above absent'
+const expectedAccount = 'rDxoj2YtjDkn9nLdotpZcMzupJvmk3wNNF'
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
 
